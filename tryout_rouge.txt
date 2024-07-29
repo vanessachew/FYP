@@ -1,0 +1,17 @@
+# trying to see if can get printout text and check for word count
+
+# for row in worksheet.iter_rows(min_row=start_row, max_row=end_row, min_col=start_col, max_col=end_col, values_only=True):
+
+#     # Accessing specific columns
+#     text = row[1]  # Assuming column B contains the text (index 0 because indexing starts from 0)
+#     summary = row[3]  # Assuming column D contains the summary (index 2)
+#     summary_gpt = row[5]  # Assuming column F contains the GPT summary (index 4)
+
+#     # print(f'Text: \n{text}\n')
+#     # print(f'Summary text: \n{summary}\n')
+#     # print(f'Summary gpt: \n{summary_gpt}\n')
+
+#     # calc word count
+#     word_count_text = len(text)
+#     word_count_summ = len(summary)
+#     word_count_gpt = len(summary_gpt)
