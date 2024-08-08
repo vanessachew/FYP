@@ -12,4 +12,4 @@ Analysis using Krippendorf's Alpha:
 1.
 
 Result:
-1. Gender plays an important role in deciding the outcome of the 
+1. Gender plays an important role in deciding which summary is more coherent, 
